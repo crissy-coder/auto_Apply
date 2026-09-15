@@ -1,1 +1,10 @@
 .env 
+venv/
+profile.yaml
+session_naukri.json
+session_linkedin.json
+applications_log.csv
+learned_answers.json
+__pycache__/
+*.pyc
+debug_screenshots/
